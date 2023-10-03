@@ -20,8 +20,7 @@ Workflow
 
 OLYMPICS 2021 DASHBOARD
 
-![Olympics](https://github.com/Sandeep1203tech/tokyo-olympic-azure-data-engineering-project/assets/78650502/5881eb7b-d748-439c-bac4-f46195913b96)
-
+![Olym](https://github.com/Sandeep1203tech/tokyo-olympic-azure-data-engineering-project/assets/78650502/51e4738b-4eca-476b-987c-4f55e95a2844)
 
 
 
