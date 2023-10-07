@@ -21,12 +21,14 @@ Workflow
 ![Synapse](https://github.com/Sandeep1203tech/tokyo-olympic-azure-data-engineering-project/assets/78650502/9231b623-2e16-4b2a-b5fa-d7292671bfff)
 
 
--> olympic data Source- Kaggle
 
-
-OLYMPICS 2021 DASHBOARD
+OLYMPICS 2021 DASHBOARD (Power BI)
 
 ![Olym](https://github.com/Sandeep1203tech/tokyo-olympic-azure-data-engineering-project/assets/78650502/51e4738b-4eca-476b-987c-4f55e95a2844)
+
+
+
+-> olympic data Source- Kaggle
 
 
 
