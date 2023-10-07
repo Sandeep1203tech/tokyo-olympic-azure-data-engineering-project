@@ -18,6 +18,9 @@ Workflow
 
 -> We will use synapse analytics to run the SQL Queries on top of the transform data so that we can find the insights and get the visualization on top of it.
 
+![Synapse](https://github.com/Sandeep1203tech/tokyo-olympic-azure-data-engineering-project/assets/78650502/9231b623-2e16-4b2a-b5fa-d7292671bfff)
+
+
 -> olympic data Source- Kaggle
 
 
